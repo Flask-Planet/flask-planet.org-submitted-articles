@@ -7,7 +7,7 @@ Fork this repo, then add a folder on the root with the Title of your article. He
 ```
 flask-planet.org-submitted-articles/
     Already Added Article Folder/
-    My Title of The Resouce/
+    My Article Title/
         __author__.md
         article.md
         any_pictures_to_include
